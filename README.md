@@ -1,5 +1,5 @@
 **My Tamagotchi Rabbit, Hooper**
-# App Description ![Happy_pet (1)](https://github.com/Safiyyah123/PetApp/assets/163822823/fc9baab6-c0f1-4223-bee8-f42637203f9c)
+# App Description ![Happy_pet (1)](https://github.com/Safiyyah123/PetApp/assets/163822823/7c5a24a9-4733-4f3e-9284-45fed18a801c)
 
 --------------------
 My Tamagotchi Rabbit, Hooper is a engaging and creative virtual pet app that allows users to care for and nurture virtual pets by feeding, playing with them and tending to their needs. 
@@ -27,14 +27,12 @@ There are three images of the pet indicating the actions of feed, play and clean
 
 #### App Navigation
 --------------------
-1.	Open app
-2.	Press “Get started” which will take you to your pet to the second screen.![20240505_180743](https://github.com/Safiyyah123/PetApp/assets/163822823/f8dcc56f-116e-4c28-915e-dd5864ae389b)
-3.	Your second screen consists of 3 buttons that says “Play with Hooper” “Clean Hooper” “Feed Hooper”. Tap on any of the actions as you like with your Hooper. ![20240505_180759](https://github.com/Safiyyah123/PetApp/assets/163822823/89834625-3f84-4f79-9b51-7293070e1bb1)
-4.	Now you will see the numbers changing under cleanliness, health and hunger. The numbers dsiplayed will show how low and high is cleanliness, health and hunger. The action chosen by user will increase one of the levels compared to other levels. ![20240505_180902](https://github.com/Safiyyah123/PetApp/assets/163822823/03f459bb-9bba-48e0-b914-c6bde8f9f22b)
-5.	For example if you tap play with Hooper, the health/happiness level will increase. If you tap Clean Hooper, the cleanliness level will increase and the other levels will decrease. ![20240505_180843](https://github.com/Safiyyah123/PetApp/assets/163822823/667bde67-b9f8-47a4-a21a-27ba7744af84)
-	![20240505_180853](https://github.com/Safiyyah123/PetApp/assets/163822823/10983284-6127-4a80-8162-4d5d655e4806)
-
-
+1. Open app
+2. Press “Get started” which will take you to your pet to the second screen.![20240505_180743](https://github.com/Safiyyah123/PetApp/assets/163822823/40478181-a1ac-4297-9fc0-5fc4702fcd14)
+3. Your second screen consists of 3 buttons that says “Play with Hooper” “Clean Hooper” “Feed Hooper”. Tap on any of the actions as you like with your Hooper. ![20240505_180759](https://github.com/Safiyyah123/PetApp/assets/163822823/f5e39534-6335-4304-bb31-30a83f776be7)
+4. Now you will see the numbers changing under cleanliness, health and hunger. The numbers dsiplayed will show how low and high is cleanliness, health and hunger. The action chosen by user will increase one of the levels compared to other levels.![20240505_180853](https://github.com/Safiyyah123/PetApp/assets/163822823/bc3ceac8-690f-4291-8206-92ee405e453a)
+5. For example if you tap play with Hooper, the health/happiness level will increase. If you tap Clean Hooper, the cleanliness level will increase and the other levels will decrease. ![20240505_180843](https://github.com/Safiyyah123/PetApp/assets/163822823/e13e8526-a218-4eca-af7f-3b326b9745d8)
+![20240505_180902](https://github.com/Safiyyah123/PetApp/assets/163822823/dbd6d15a-9aa7-4ab4-92da-c1e14d56bda5)
 
 ##### Utilisation of Github and Github Actions
 -----------------------------------------------
@@ -50,4 +48,4 @@ In summary, by utilizing Github and repositories, along with Github Actions for 
 ###### References
 GitHub. (n.d.). Github-actions/.github/workflows/build.yml at main · IMAD5112/Github-actions. [online] Available at: *https://github.com/IMAD5112/Github-actions/blob/main/.github/workflows/build.yml.*
 
-‌
+
